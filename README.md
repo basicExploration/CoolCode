@@ -16,6 +16,10 @@
 
 - 我还有想法用`ShellScript`写。
 
+
+***
+1. [基础知识](./basic)
+***
 ☕️如何真的对你有帮助，你可以请我喝杯咖啡，这样我就可以有精神了，多谢多谢
 
 ![p](https://raw.githubusercontent.com/googege/Files/master/donate.png)
