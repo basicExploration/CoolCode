@@ -1,13 +1,15 @@
 ## 基础知识
+> 很不错的参考资料：https://github.com/imgoogege/CS-Notes
 
 ### 图
 
 ![p](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/LCCN-Articles/explore/2018%20%E9%9D%A2%E8%AF%95%E6%B1%87%E6%80%BB/lc_sum.png)
 
 ### 操作系统
+[操作系统](https://github.com/imgoogege/architect-awesome/blob/master/README.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
 ### 编程
-
+[go](https://github.com/imgoogege/build-web-application-with-golang)
 
 ### 算法 - Algorithms
 
@@ -29,3 +31,5 @@
 ### 数学
 
 ### 系统设计
+[系统设计](https://blog.csdn.net/hustspy1990/article/details/78008324)
+
