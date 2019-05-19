@@ -4,6 +4,11 @@
 
 ![p](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/LCCN-Articles/explore/2018%20%E9%9D%A2%E8%AF%95%E6%B1%87%E6%80%BB/lc_sum.png)
 
+### 操作系统
+
+### 编程
+
+
 ### 算法 - Algorithms
 
 - 排序算法：快速排序、归并排序、计数排序
@@ -20,3 +25,7 @@
 - 哈希表
 - 堆：大 / 小根堆、可并堆
 - 字符串：字典树、后缀树
+
+### 数学
+
+### 系统设计
