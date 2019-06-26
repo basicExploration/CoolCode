@@ -25,7 +25,7 @@
 
 
 ***
-[基础知识](./basic)
+[基础知识](https://github.com/googege/AMAC)
 ***
 1. [鸡蛋掉落](./1/README.md)
 ***
