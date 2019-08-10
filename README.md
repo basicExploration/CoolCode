@@ -1,6 +1,7 @@
 ## amazingLeetcode
 
 记录LeetCode中特别让人记忆深刻的题和解题思路。
+
 [基础知识](https://github.com/googege/AMAC)
 ***
 1. [鸡蛋掉落](./1/README.md)
