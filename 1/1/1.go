@@ -2,6 +2,8 @@ package main
 
 import "math"
 
+// 此处备注的做法，证明不对，但是不能抹去，毕竟是我做过的思路。错误的地方在于无法甄别相同的重复的数据。
+
 func ThreeSum(nums []int) [][]int {
 	if len(nums) < 3 {
 		return nil
