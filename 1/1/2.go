@@ -15,6 +15,7 @@ func Three(value []int) (res [][]int) {
 		for l < r {
 			values := value[l] + value[i] + value[r]
 			switch {
+				// switch v := ins.(type) { type 是固定用法，只能是单词type 这里的v是类型，
 			case values > 0:
         l++
 			case values < 0:
