@@ -39,6 +39,3 @@ func PackageOne()(G int){
 }
 
 
-func main(){
-	PackageOne()
-}

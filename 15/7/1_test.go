@@ -10,5 +10,5 @@ func TestPackageOne(t *testing.T) {
 }
 
 func TestPackageTwo(t *testing.T) {
-	fmt.Println("two",PackageTwo()) // two 396
+	fmt.Println("two",PackageTwo()) // two
 }
