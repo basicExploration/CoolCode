@@ -6,5 +6,9 @@ import (
 )
 
 func TestPackageOne(t *testing.T) {
-	fmt.Print(PackageOne())//25  PASS
+	fmt.Print("one",PackageOne())// one 25
+}
+
+func TestPackageTwo(t *testing.T) {
+	fmt.Println("two",PackageTwo()) // two 396
 }
